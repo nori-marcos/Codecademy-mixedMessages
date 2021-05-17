@@ -1,2 +1,2 @@
 # mixed-messages
-message generator programm prompted by Codecademy
+Message generator programm prompted by Codecademy.
